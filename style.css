@@ -1,0 +1,467 @@
+nav {
+  background-color: #0D1B2A;
+  width: 100%;
+  height: 100vh;
+}
+
+body {
+  margin: auto;
+  width: 100%;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+section {
+  height: 100vh;
+}
+
+.homepage {
+  color: #E0E1DD;
+  text-align: center;
+  font-size: 80px;
+  line-height: 0px;
+  width: 100%
+}
+
+.hilang1 {
+  opacity: 15%;
+  -webkit-text-stroke: 1pt;
+  -webkit-text-fill-color: #0D1B2A;
+  margin-bottom: 5%;
+}
+
+.hilang2 {
+  opacity: 20%;
+  -webkit-text-stroke: 1pt;
+  -webkit-text-fill-color: #0D1B2A;
+  margin-bottom: 5%;
+}
+
+.hilang3 {
+  opacity: 25%;
+  -webkit-text-stroke: 1pt;
+  -webkit-text-fill-color: #0D1B2A;
+  margin-bottom: 5%;
+}
+
+.hilang4 {
+  opacity: 30%;
+  -webkit-text-stroke: 1pt;
+  -webkit-text-fill-color: #0D1B2A;
+  margin-bottom: 5%;
+}
+
+.depan {
+  font-size: 40px;
+  color: #778DA9;
+  text-align: center;
+}
+
+.cv {
+  margin-top: 2.5%;
+}
+
+.nama {
+  margin-top: 17%;
+}
+
+.foto {
+  margin-left: 5%;
+  margin-top: 0%
+}
+
+.atas {
+  color: #778DA9;
+  margin-left: 40%;
+  margin-top: -48%;
+  font-size: 35pt;
+  height: 9vh;
+}
+.atas a {
+  text-decoration: none;
+  color: #778DA9;
+}
+
+.dtl {
+  margin-left: 37.7%;
+  color: #E0E1DD;
+  height: 10vh;
+  font-size: 15pt;
+  line-height: 20pt;
+  margin-top: 1%;
+}
+
+.info {
+  padding-left: 31%;
+  height: 5vh;
+  margin-top: 1%;
+}
+.info ul {
+  display: flex;
+}
+.info li {
+  color: #E0E1DD;
+  list-style: none;
+  padding-left: 9.7%;
+  font-size: 18pt;
+}
+
+.kontak {
+  color: #E0E1DD;
+  list-style: none;
+  margin-left: 37.7%;
+  font-size: 16pt;
+  line-height: 30px;
+  margin-top: 1%;
+}
+
+.profil {
+  color: #778DA9;
+  list-style: none;
+  margin-left: 10%;
+  font-size: 16pt;
+  line-height: 25px;
+  margin-top: 1.5%;
+}
+
+.kontakku {
+  display: flex;
+  height: 17vh;
+  margin-top: 2%;
+}
+
+.pp {
+  color: #778DA9;
+  list-style: none;
+  margin-left: 37.7%;
+  font-size: 19pt;
+  margin-top: 1%;
+}
+
+.pictur {
+  margin-left: 35%;
+  width: 100px;
+  height: 100px;
+  display: flex;
+}
+
+.bahasa {
+  color: #778DA9;
+  list-style: none;
+  margin-left: 37.7%;
+  font-size: 20pt;
+  line-height: 50px;
+  margin-top: 1%;
+}
+
+.dua1 {
+  color: #E0E1DD;
+  list-style: none;
+  margin-left: 37.7%;
+  font-size: 16pt;
+  line-height: 30px;
+  margin-top: 1%;
+}
+
+.dua2 {
+  color: #E0E1DD;
+  list-style: none;
+  margin-left: 10%;
+  font-size: 16pt;
+  line-height: 30px;
+  margin-top: 1%;
+}
+
+.lang {
+  display: flex;
+}
+
+.education {
+  display: flex;
+  background-color: #0D1B2A;
+  width: 100%;
+  height: 100%;
+  color: #E0E1DD;
+  font-size: 15pt;
+}
+.education td {
+  color: #E0E1DD;
+  font-size: 16pt;
+}
+
+.expe {
+  margin-left: 15%;
+  margin-top: 5%;
+  font-size: 30pt;
+  line-height: 40px;
+
+}
+.expe table, .expe td {
+  border: 1px solid white;
+  border-collapse: collapse;
+}
+.expe td {
+  padding: 3%;
+}
+
+.educa {
+  margin-left: 3%;
+  margin-top: 5%;
+  font-size: 30pt;
+  line-height: 40px;
+}
+.educa table, .educa td {
+  border: 1px solid white;
+  border-collapse: collapse;
+}
+.educa td {
+  padding: 3%;
+}
+
+/*BAR*/
+.barBorder-1 {
+  position: absolute;
+  width: 30%;
+  rotate: 90deg;
+  height: 10%;
+  border: solid 2px #415A77;
+  margin-top: 23%;
+  margin-left: 5%;
+}
+
+.barBorder-2 {
+  position: absolute;
+  width: 30%;
+  rotate: 90deg;
+  height: 10%;
+  border: solid 2px #415A77;
+  margin-top: 23%;
+  margin-left: -5%;
+}
+
+.barBorder-3 {
+  position: absolute;
+  width: 30%;
+  rotate: 90deg;
+  height: 10%;
+  border: solid 2px #415A77;
+  margin-top: 23%;
+  margin-left: 75%;
+}
+
+.barBorder-4 {
+  position: absolute;
+  width: 30%;
+  rotate: 90deg;
+  height: 10%;
+  border: solid 2px #415A77;
+  margin-top: 23%;
+  margin-left: 65%;
+}
+
+.mew {
+  color: #415A77;
+  font-size: 30pt;
+}
+
+.videdi {
+  color: #E0E1DD;
+  font-size: 50pt;
+}
+
+.myi {
+  text-align: center;
+  margin-left: 38.5%;
+  margin-top: 17%;
+  line-height: 60px;
+}
+
+.myi1 {
+  text-align: center;
+  margin-left: 45%;
+  margin-top: 17%;
+  line-height: 60px;
+}
+
+.myi2 {
+  text-align: center;
+  margin-left: 34.5%;
+  margin-top: 15%;
+  line-height: 60px;
+}
+
+.educations {
+  background-color: #0D1B2A;
+  width: 100%;
+  height: 100%;
+  display: flex;
+}
+
+.educationss {
+  background-color: #0D1B2A;
+  width: 100%;
+  height: 100%;
+}
+
+.foto1 {
+  margin-left: 15%;
+}
+
+.per1 {
+  color: #415A77;
+  font-size: 25pt;
+}
+
+.fotovid {
+  height: 35%;
+  width: 70%;
+  margin-left: 15%;
+}
+
+.fotovid1 {
+  height: 35%;
+  width: 70%;
+  margin-left: 15%;
+}
+
+.persegipnjg {
+  width: 100%;
+  height: 20vh;
+  background-color: #0D1B2A;
+  display: flex;
+  align-items: center;
+}
+
+.persegipnjg > * {
+  margin-left: 10%;
+  line-height: 2;
+}
+
+span {
+  color: #E0E1DD;
+}
+
+.kirimani {
+  text-align: left;
+  color: #415A77;
+  display: flex;
+}
+
+.kirimani > * {
+  line-height: 2;
+  margin-left: 10%;
+}
+
+.fotomn {
+  margin-top: 1%;
+  margin-left: 5%;
+}
+
+.mani {
+  height: 65%;
+  margin-left: 17%;
+}
+
+.fox {
+  height: 65%;
+  margin-left: 20%;
+}
+
+.desing {
+  display: flex;
+}
+
+.nirva {
+  height: 50%;
+  width: 73%;
+}
+
+.poster {
+  height: 50%;
+  width: 30%;
+  padding-top: 3%;
+  padding-left: 20%;
+}
+
+.nirdes {
+  padding-left: 7%;
+  padding-top: 3%;
+}
+
+.des {
+  margin-top: 10%;
+}
+
+.des > * {
+  line-height: 2;
+  font-size: 30pt;
+}
+
+.up {
+  color: #E0E1DD;
+  padding-left: 5%;
+  font-size: 25pt;
+  padding-top: 3%;
+  line-height: 50px;
+}
+
+.middle {
+  color: #E0E1DD;
+  text-align: center;
+  padding-top: 15%;
+  padding-left: 14%;
+  font-size: 30pt;
+}
+
+.bottom {
+  color: #E0E1DD;
+  padding-left: 8%;
+  padding-top: 30%;
+  font-size: 20pt;
+  line-height: 40px;
+}
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+body {
+	line-height: 1;
+}
+ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+
+/*# sourceMappingURL=style.css.map */
